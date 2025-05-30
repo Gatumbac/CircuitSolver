@@ -18,7 +18,7 @@ form.addEventListener('submit', (e) => {
     Swal.fire({
         title: "Resultado: 5000(A)",
         text: "Corriente Total Calculada!",
-        imageUrl: "../img/ampere1.png",
+        imageUrl: "img/ampere1.png",
         imageWidth: 200,
         imageHeight: 200,
         imageAlt: "Imagen de corriente"

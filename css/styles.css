@@ -74,7 +74,7 @@ img {
 
 .image {
     height: 25rem;
-    background-image: url('../img/bg.jpg');
+    background-image: url('../img/bg1.jpg');
     background-size: cover;
     background-position: center right;
     background-repeat: no-repeat;
@@ -216,4 +216,8 @@ input[type=range]:hover::-moz-range-thumb {
     font-size: 2rem;
     text-align: center;
     font-weight: bold;
+}
+
+.footer__content {
+    text-align: center;
 }
